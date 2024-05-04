@@ -1,2 +1,2 @@
 # code.practice
-This is code.practice for git &amp; github class
+This is code.practice for git &amp; github class.
